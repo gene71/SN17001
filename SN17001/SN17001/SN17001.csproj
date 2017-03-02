@@ -31,10 +31,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="CR.Core">
-      <HintPath>..\..\..\..\CR.Util\CR.Core\bin\Debug\CR.Core.dll</HintPath>
-    </Reference>
-    <Reference Include="CR.Util">
-      <HintPath>..\..\..\..\CR.Util\CR.Util\bin\Debug\CR.Util.dll</HintPath>
+      <HintPath>..\..\..\CR.Core\CR.Core\bin\Debug\CR.Core.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
